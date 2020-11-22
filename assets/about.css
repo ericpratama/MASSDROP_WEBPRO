@@ -1,0 +1,271 @@
+html{
+  scroll-behavior: smooth;
+}
+.logokecil{
+    margin-top: 0px;
+    width: 130px;
+    height: 60px;
+    display: block;
+    float: left;
+  }
+
+  .bg-img {
+    /* The image used */
+    background-image: url("about2.jpg");
+    margin-left: 105px;
+    margin-right: 105px;
+    height: 500px;
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+    /* Needed to position the navbar */
+    position: relative;
+  }
+#atas{
+    padding-bottom: 0px;
+    border-top: 1px solid #d8d5d2;
+    background: #fff;
+    color: #9f9e9e;
+    width: 100%;
+    font-family: gordita,Helvetica,Arial,Verdana,sans-serif;
+    font-size: 12px;
+}
+.atas{
+  height: 50%;
+  
+}
+.bawah{
+  height: 50%;
+  
+}
+#bt{
+  padding-left: 600px;
+  padding-right: 600px;
+  padding-top: 170px;
+}
+#bt :hover{
+  background-color: #fdcf41;
+
+}
+.scroll{
+  width: 100%;
+  padding-left: 200px;
+  padding-top:30px;
+  padding-bottom:10px;
+  color: #9f9e9e;
+}
+.isiscroll
+{
+  
+  padding-left: 30px;
+  padding-right: 30px;
+}
+.katakata{
+  font-family: gordita,Helvetica,Arial,Verdana,sans-serif;
+}
+.h2kata{
+  font-size: 24px;
+  font-weight: 900;
+}
+.btnshop{
+  border: 1px solid transparent;
+  background-color: black;
+  color:white;
+  font-weight: bold;
+  letter-spacing: 1px;
+  padding: 5px 10px 5px 10px;
+}
+.pkata{
+    text-align: center;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+    color: #414141;
+    margin:0;
+    margin-right: 0px;
+}
+.text1{
+    height: 28px;
+    font-family: Gordita;
+    font-size: 32px;
+    font-weight: 1000;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.42;
+    letter-spacing: -.5px;
+    color: #042b28;
+    vertical-align: top;
+    overflow: visible;
+    word-break: break-word;
+}
+.text2{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: 10px;
+    height: 90px;
+    font-family: gordita,Helvetica,Arial,Verdana,sans-serif;
+    font-size: 32px;
+    font-weight: 100;
+    line-height: 1.5;
+    letter-spacing: -2px;
+    color: #042b28;
+    overflow: hidden;
+}
+.text3{
+    padding: 0px;
+    margin:0px;
+}
+.inf{
+  font-family: gordita,Helvetica,Arial,Verdana,sans-serif;
+  font-size: 15px;
+  font-weight: bold;
+}
+
+
+.text{
+    color:white;
+}
+/* isi */
+.ct{
+    font-family: gordita,Helvetica,Arial,Verdana,sans-serif !important;
+    font-size: 18px !important;
+    font-weight: 900 !important;
+    overflow: hidden !important;
+    white-space: nowrap !important;
+    text-overflow: ellipsis !important;
+}
+.cs{
+  font-weight: bold;
+  font-family: gordita,Helvetica,Arial,Verdana,sans-serif;
+  color: #666;
+}
+.head4{
+  font-family: Gordita;
+    font-style: normal;
+    font-stretch: normal;
+    letter-spacing: normal;
+    
+    color: #042b28;
+    font-size: 36px;
+    font-weight: 800;
+    line-height: 1.28;
+}
+.p4{
+  font-size: 20px;
+    font-weight: 400;
+    line-height: 1.67;
+    font-family: Gordita;
+    font-style: normal;
+    font-stretch: normal;
+    letter-spacing: normal;
+    color: #042b28;
+}
+
+/* bawah */
+#bawah{
+    padding-bottom: 0px;
+    border-top: 1px solid #d8d5d2;
+    background: #fff;
+    color: #9f9e9e;
+    text-transform: uppercase;
+    width: 100%;
+    font-family: gordita,Helvetica,Arial,Verdana,sans-serif;
+    font-size: 12px;
+  }
+  #rowbawah{
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+  a{
+    margin-top:0px;
+    cursor: pointer;
+  }
+  .icon{
+    cursor: pointer;
+    height: 30px;
+    width: 30px;
+  }
+  #barisbawah2{
+    font-family: gordita,Helvetica,Arial,Verdana,sans-serif !important;
+    font-size: 13px !important;
+    padding-top: 20px;
+    line-height: 1.5;
+    font-weight: 600;
+  }
+  body{
+    overflow-x: hidden;
+  }
+  .card-deck{
+    height: 250px;
+    width: 380px;
+    margin: 0px;
+  }
+  .card{
+    margin:0px;
+    width: inherit;
+    height: inherit;
+  }
+  .overlay2{
+    width: 380px;
+    height: inherit;
+  }
+  .cabot{
+    width: inherit;
+    height: inherit;
+  }
+  
+  
+  
+  .card-text{
+    font-family: Gordita;
+    font-size: 16px;
+    font-weight:800;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.69;
+    letter-spacing: 1px;
+    text-align: center;
+    color: #042b28;
+    height: auto;
+    overflow: hidden;
+    text-transform: none;
+    padding: 0;
+    margin-bottom: 0;
+    
+  }
+  .cardbawah{
+    margin-left: 5px;
+  }
+  .card-body{
+    padding: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+    height: 200px;
+  }
+  #harga{
+    height:22px;
+  }
+
+  #gambarmade{
+    height: 330px;
+    width: 100%;
+  }
+  #madekanan{
+    margin:0;
+    padding:0;
+  }
+  #madekiri{
+    margin: 0;
+    padding : 30px 30px 30px 30px;
+  }
+  .kiri{
+    padding: 5px;
+    height: 100%;
+    width: 100%;
+  }
+  footer{
+    margin-top: 100px;
+  }

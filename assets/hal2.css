@@ -1,0 +1,264 @@
+.logokecil{
+    margin-top: 0px;
+    width: 130px;
+    height: 60px;
+    display: block;
+    float: left;
+  }
+
+  .bg-img {
+    /* The image used */
+    background-image: url("latar4.jpg");
+    
+    min-height: 380px;
+    width: 100%;
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+    /* Needed to position the navbar */
+    position: relative;
+  }
+#atas{
+    padding-bottom: 0px;
+    border-top: 1px solid #d8d5d2;
+    background: #fff;
+    color: #9f9e9e;
+    width: 100%;
+    font-family: gordita,Helvetica,Arial,Verdana,sans-serif;
+    font-size: 12px;
+}
+.petak{
+    width: 460px;
+    height: 210px;
+    background-color:white;
+    border-radius: 5;
+    padding: 0px;
+}
+.petakisi{
+    padding: 5px 30px 30px 30px;
+}
+.text1{
+    height: 28px;
+    font-family: Gordita;
+    font-size: 32px;
+    font-weight: 1000;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.42;
+    letter-spacing: -.5px;
+    color: #042b28;
+    vertical-align: top;
+    overflow: visible;
+    word-break: break-word;
+}
+.text2{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: 10px;
+    height: 90px;
+    font-family: gordita,Helvetica,Arial,Verdana,sans-serif;
+    font-size: 32px;
+    font-weight: 100;
+    line-height: 1.5;
+    letter-spacing: -2px;
+    color: #042b28;
+    overflow: hidden;
+}
+.text3{
+    padding: 0px;
+    margin:0px;
+}
+.btnshop{
+    border: 1px solid transparent;
+    background-color: black;
+    color:white;
+    font-weight: bold;
+    letter-spacing: 1px;
+    padding: 5px 10px 5px 10px;
+}
+.btnshop2{ 
+  margin-top: 30px;
+  border: 1px solid transparent;
+  background-color: black;
+  color:white;
+  font-weight: bold;
+  letter-spacing: 1px;
+  padding: 5px 10px 5px 10px;
+}
+.text{
+    color:white;
+}
+.shoprated{
+  font-family: sans-serif;
+  font-size: 26px;
+  font-weight: 700;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.42;
+  letter-spacing: -.5px;
+  color: #042b28;
+  margin-bottom: 20px;
+}
+.shopall{
+    font-family: gordita,Helvetica,Arial,Verdana,sans-serif;
+    font-size: 15px;
+    font-weight: 500;
+    letter-spacing: .6px;
+    color: #000000;
+    text-transform: uppercase;
+}
+#listcard1{
+  padding: 10px;
+  border: 1px solid #d8d5d2;
+}
+/* isi */
+.ct{
+    font-family: gordita,Helvetica,Arial,Verdana,sans-serif !important;
+    font-size: 18px !important;
+    font-weight: 600 !important;
+    overflow: hidden !important;
+    white-space: nowrap !important;
+    text-overflow: ellipsis !important;
+}
+.cs{
+  font-weight: bold;
+  font-family: gordita,Helvetica,Arial,Verdana,sans-serif;
+  color: #666;
+}
+.head4{
+  font-family: Gordita;
+    font-style: normal;
+    font-stretch: normal;
+    letter-spacing: normal;
+    
+    color: #042b28;
+    font-size: 36px;
+    font-weight: 800;
+    line-height: 1.28;
+}
+.p4{
+  font-size: 20px;
+    font-weight: 400;
+    line-height: 1.67;
+    font-family: Gordita;
+    font-style: normal;
+    font-stretch: normal;
+    letter-spacing: normal;
+    color: #042b28;
+}
+
+/* bawah */
+#bawah{
+    padding-bottom: 0px;
+    border-top: 1px solid #d8d5d2;
+    background: #fff;
+    color: #9f9e9e;
+    text-transform: uppercase;
+    width: 100%;
+    font-family: gordita,Helvetica,Arial,Verdana,sans-serif;
+    font-size: 12px;
+  }
+  #rowbawah{
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+  a{
+    margin-top:0px;
+    cursor: pointer;
+  }
+  .icon{
+    cursor: pointer;
+    height: 30px;
+    width: 30px;
+  }
+  #barisbawah2{
+    font-family: gordita,Helvetica,Arial,Verdana,sans-serif !important;
+    font-size: 13px !important;
+    padding-top: 20px;
+    line-height: 1.5;
+    font-weight: 600;
+  }
+  body{
+    overflow-x: hidden;
+  }
+  
+  .card{
+    width: 250px;
+    height: 280px;
+    padding: 0;
+    border: 0px solid #d8d5d2;
+    cursor: pointer;
+  }
+  .card1{
+    width: 250px;
+    height: 400px;
+    padding: 0;
+    border: 1px solid #d8d5d2;
+    cursor: pointer;
+  }
+  #listcard{
+    height: 300px;
+  }
+  .cd1{
+    padding: 5px;
+
+  }
+  .card-text{
+    font-family: Gordita;
+    font-size: 16px;
+    font-weight:800;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.69;
+    letter-spacing: 1px;
+    text-align: center;
+    color: #042b28;
+    height: auto;
+    overflow: hidden;
+    text-transform: none;
+    padding: 0;
+    margin-bottom: 0;
+    
+  }
+  .cardbawah{
+    margin-left: 5px;
+  }
+  .card-body{
+    padding: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+    height: 200px;
+  }
+  #harga{
+    height:22px;
+  }
+
+  #gambarmade{
+    height: 330px;
+    width: 100%;
+  }
+  #madekanan{
+    margin:0;
+    padding:0;
+  }
+  #madekiri{
+    margin: 0;
+    padding : 30px 30px 30px 30px;
+  }
+  .kiri{
+    padding: 5px;
+    height: 100%;
+    width: 100%;
+  }
+  footer{
+    margin-top: 0;
+  }
+  #trend{
+    height: 500px;  
+  }
+  .x:hover{
+    text-decoration: none;
+  }
